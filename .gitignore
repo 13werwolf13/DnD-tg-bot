@@ -103,5 +103,6 @@ $RECYCLE.BIN/
 Будет удалено randomgenerator.py
 Будет удалено settings.py
 Будет удалено start.py
-
+./__pycache__
 ./settings.py
+
